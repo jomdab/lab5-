@@ -4,7 +4,7 @@
 using namespace std;
 double deg2rad(double x){
      return (x*M_PI)/180;
-}
+ }
 double rad2deg(double x){
      return (x*180)/M_PI;
 }
